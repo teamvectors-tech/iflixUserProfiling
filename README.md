@@ -1,5 +1,5 @@
 # iflixUserProfiling
-The repository contains a dataset related to iflix user profiles. It consists with the values in following columns.
+The repository contains a dataset related to iflix user profiles. It consists with the values in following columns. Values are in text, numbers, currency formats.
 * MSISDN_VOICE	
 * AGE	
 * DISTRICT_NAME	
